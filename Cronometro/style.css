@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #f4f3ee;
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cronometro {
+    background-color: #bcb8b1;
+    border: 3px solid #463f3a;
+    border-radius: 50px;
+    width: 500px;
+    height: 300px;
+}
+.display {
+    background-color: #f4f3ee;
+    border: 3px solid #463f3a;
+    border-radius: 50px;
+    width: 400px;
+    height: 150px;
+    margin: 20px auto;
+    display: flex;
+    place-items: center;
+    justify-content: center;
+}
+.display span {
+    font-size: 100px;
+    color: #463f3a;
+}
+.teclado {
+    width: 400px;
+    height: 40px;
+    margin: 0 auto;
+}
+button {
+    border-radius: 50px;
+    width: 130px;
+    height: 40px;
+    border: 3px solid #463f3a;
+    color: #463f3a;
+    font-weight: bold;
+}
+.rodape {
+    font-size: 11px;
+    color: #463f3a ;
+    text-align: end;
+}
