@@ -1,6 +1,7 @@
-<h1 align="center"> Cronometro </h1>
-<p align="center">Um cronômetro simples e funcional feito com JavaScript.</p>
+<h1> Cronometro </h1>
+<p>Um cronômetro simples e funcional feito com JavaScript.</p>
 
+![Cronometro](https://user-images.githubusercontent.com/81213149/149678206-79476e04-7c43-402a-9e43-5d97e4fe2e0b.png)
 
 <h3>Tecnologias ultilizadas</h3>
 
